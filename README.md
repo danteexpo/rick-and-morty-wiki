@@ -1,14 +1,14 @@
 # Rick & Morty Wiki
 
-Proyecto realizado con [The Rick and Morty API](https://rickandmortyapi.com/), Sass y Bootstrap.
+Project made with [The Rick and Morty API](https://rickandmortyapi.com/), Sass and Bootstrap.
 
-## Instalación
+## Installation
 
 ```bash
 npm install
 ```
 
-Dependencias:
+Dependencies:
 
 - bootstrap
 - @popperjs/core --save
@@ -16,7 +16,7 @@ Dependencias:
 - react-paginate --save
 - react-router-dom
 
-## Ejecución
+## Start
 
 ```bash
 npm start
