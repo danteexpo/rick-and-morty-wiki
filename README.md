@@ -2,6 +2,10 @@
 
 Project made with [The Rick and Morty API](https://rickandmortyapi.com/), Sass and Bootstrap.
 
+## Link
+
+[Rick & Morty Wiki](https://de-rick-and-morty-wiki.netlify.app/).
+
 ## Installation
 
 ```bash
